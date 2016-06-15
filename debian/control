@@ -1,0 +1,15 @@
+Source: wasta-gnome-3-18-xenial
+Section: utils
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/wasta-linux/wasta-gnome-3-18-xenial
+
+Package: wasta-gnome-3-18-xenial
+Architecture: all
+Depends: gnome-control-center, gnome-shell, wasta-core-xenial, wasta-gnome-ext-3-18, wasta-multidesktop-xenial, ${shlibs:Depends}, ${misc:Depends}
+Recommends: arc-theme-3-18, gnome-tweak-tool, lightdm, nautilus-admin, wasta-vertex, wasta-vertex-ubuntu
+Conflicts: gdm
+Description: Wasta-Linux 16.04 Gnome-Shell
+ Wasta-Linux 16.04 Xenial Gnome-Shell Setup.
