@@ -1,3 +1,10 @@
+wasta-gnome-3-18-xenial (0.9.1) xenial; urgency=medium
+
+  * install-files/schemas: adding gnome trash extension as default
+    - adjusting nautilus icon-size default to 'standard'
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 15 Jun 2016 14:44:34 -0500
+
 wasta-gnome-3-18-xenial (0.9.0) xenial; urgency=medium
 
   * initial 16.04 commit
