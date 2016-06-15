@@ -60,7 +60,7 @@ theme = 'Arc-Darker'
 titlebar-font = 'Ubuntu Bold 11'
 
 [org.gnome.nautilus.icon-view]
-default-zoom-level = 'small'
+default-zoom-level = 'standard'
 
 [org.gnome.nautilus.list-view]
 default-visible-columns = ['name', 'size', 'date_modified_with_time']
@@ -83,7 +83,7 @@ critical-battery-action = 'shutdown'
 sleep-inactive-battery-timeout = 1800
 
 [org.gnome.shell]
-enabled-extensions = ['alternate-tab@gnome-shell-extensions.gcampax.github.com', 'Applications_Overview_Tooltip_NG@Karlitos', 'caffeine@patapon.info', 'dash-to-dock@micxgx.gmail.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'focus-my-window@varianto25.com', 'gnomenu@panacier.gmail.com', 'nohotcorner@azuri.free.fr', 'suspend-button@laserb', 'TopIcons@phocean.net', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'windowoverlay-icons@sustmidown.centrum.cz', 'workspace-isolated-dash@n-yuki']
+enabled-extensions = ['alternate-tab@gnome-shell-extensions.gcampax.github.com', 'Applications_Overview_Tooltip_NG@Karlitos', 'caffeine@patapon.info', 'dash-to-dock@micxgx.gmail.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'focus-my-window@varianto25.com', 'gnomenu@panacier.gmail.com', 'gnome-shell-trash-extension', 'nohotcorner@azuri.free.fr', 'suspend-button@laserb', 'TopIcons@phocean.net', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'windowoverlay-icons@sustmidown.centrum.cz', 'workspace-isolated-dash@n-yuki']
 favorite-apps = ['firefox.desktop', 'thunderbird.desktop', 'org.gnome.Nautilus.desktop', 'libreoffice-writer.desktop', 'vlc.desktop']
 
 [org.gnome.shell.overrides]
